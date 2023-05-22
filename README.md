@@ -44,7 +44,7 @@
    <img align="center" alt="Ari-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
    </div>
   <br><p align="center">
-    <a href="https://github.com/arisama/github-readme-streak-stats">
+    <a href="https://github.com/ariannosanchez/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ariannosanchez&theme=transparent"/>
     </a>
 </p>
