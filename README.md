@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a dedicated person in the backend
+- 🔭 I’m a dedicated person in the web development
 
 - 🌱 I’m a person who works very well in a team
 
