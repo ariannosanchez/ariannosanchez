@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arianno Sanchez</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/mctechnology17/mctechnology17/main/src/wave.gif" width="30px">, I'm Arianno Sanchez</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/ariannosanchez/ariannosanchez/main/ariannoban.png"> </div>
 <h3 align="center">A passionate software developer from Perú</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
